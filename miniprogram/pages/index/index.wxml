@@ -1,0 +1,12 @@
+<!--index.wxml-->
+hello world
+<view class="container">
+
+  <!-- 用户 openid -->
+  <view class="userinfo">
+    hello world
+  </view>
+    
+
+
+</view>
